@@ -48,7 +48,7 @@ make setup-venv
 > This will run `python` command to setup the virtual environment. You can either change that to `python3.X`,
 > or simply alias `python` to your local `python3.X` installation, for example:
 > ```shell
-> echo "alias python=/Library/Frameworks/Python.framework/Versions/3.12/bin/python3" >> ~/.zshrc`
+> echo "alias python=/Library/Frameworks/Python.framework/Versions/3.12/bin/python3" >> ~/.zshrc
 > ```
 
 Once activate virtual env, build the project for development by
